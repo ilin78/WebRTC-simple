@@ -1,4 +1,4 @@
-# This expement for learn WebRTC
+# This is experiment for learn WebRTC
 
 This project is being created from various sources.
 
